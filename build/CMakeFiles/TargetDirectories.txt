@@ -1,0 +1,3 @@
+G:/Embedded Systems/CMake/CMake/build/CMakeFiles/hellobinary.dir
+G:/Embedded Systems/CMake/CMake/build/CMakeFiles/edit_cache.dir
+G:/Embedded Systems/CMake/CMake/build/CMakeFiles/rebuild_cache.dir
