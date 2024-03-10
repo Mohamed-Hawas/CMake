@@ -1,3 +1,7 @@
-G:/Embedded Systems/CMake/CMake/build/CMakeFiles/hellobinary.dir
-G:/Embedded Systems/CMake/CMake/build/CMakeFiles/edit_cache.dir
-G:/Embedded Systems/CMake/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/edit_cache.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/check-stlink.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/flash.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/erase.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/binary.dir
+/home/hawas/Embedded_Systems/CMake/CMake/build/CMakeFiles/CMake.dir

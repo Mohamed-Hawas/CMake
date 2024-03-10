@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+5b1ea8c6915662475d18b61205d639d6 CMakeFiles/binary
+990c3d9b44484b0185338b6e7754c5a7 CMakeFiles/check-stlink
+f27f900c79a8110e0ba5c91a0c84888a CMakeFiles/erase
+e49ba97103eb5118e8cde34abba1227a CMakeFiles/flash
