@@ -73,4 +73,4 @@ add_custom_target(binary ALL
     COMMAND arm-none-eabi-objcopy -O binary ${EXCUTABLE} ${EXCUTABLE}.bin)
 
 # Include additional custom targets from st_link.cmake
-include(st_link.cmake)
+include(st-link.cmake)

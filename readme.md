@@ -93,13 +93,13 @@ Follow these steps to build the project from the source code:
 
 3. **Ensure CMake Files are Beside the Project Directory:**
 
-   Make sure that the three CMake files (`CMakeLists.txt`, `toolchain.cmake`, and `st_link.cmake`) are located beside the project directory.
+   Make sure that the three CMake files (`CMakeLists.txt`, `toolchain.cmake`, and `st-link.cmake`) are located beside the project directory.
 
     ```
     ├── yourproject/                 # Main project directory
     │   ├── CMakeLists.txt           # CMake configuration file
     │   ├── toolchain.cmake          # Toolchain configuration file
-    │   ├── st_link.cmake            # ST-Link configuration file
+    │   ├── st-link.cmake            # ST-Link configuration file
     │   ├── startup/                 # Startup code directory
     │   │   ├── linker.ld            # Linker script
     │   │   └── startup.s            # Startup assembly code
