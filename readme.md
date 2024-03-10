@@ -13,7 +13,6 @@
   - [Installing Prerequisites](#InstallingPrerequisites)
   - [Building](#building)
   - [Flashing](#flashing)
-- [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
 
